@@ -22,3 +22,11 @@ Absen Karyawan - Sistem informasi karyawan merupakan aplikasi absensi berbasis w
 -> Catatan(PENTING) :
     <i style="color: yellow;">Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'karyawansi'</i>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Tampilan Aplikasi
+
+Berikut beberapa screenshot dari aplikasi:
+
+![Halaman Utama](screenshots/Dashboard_Abs.png)
+![Login](screenshots/Homepage_Abs.png)
+![Hasil Perhitungan SMART](screenshots/Login_Abs.png)
